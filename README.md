@@ -8,7 +8,7 @@ This is a simple Angular POC created by Abhishek Choubey. <br/>
 In this POC I tried to demonstrate Forms in Angular. <br/>
 
 Here, <br/>
-I used Template Driven Forms And Module Driven Forms { Reactive forms } <br/>
+I used Template Driven Forms And Model-Driven Forms { Reactive forms } <br/>
  
 For reactive forms we need to add ReactiveFormsModule in app.module.ts file. <br/>
 
